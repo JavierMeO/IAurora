@@ -295,6 +295,7 @@ header.scrolled {
   background: transparent;
   border: 1px solid transparent;
   cursor: pointer;
+  margin-bottom: 30px;
 
   /* Glass effect */
   backdrop-filter: blur(6px);
