@@ -4,11 +4,11 @@ import tailwindcss from '@tailwindcss/vite'
 export default {
   content: [
     "./index.html",
-    "./src/**.js"
+    "./src/**/*.{js,jsx,ts,tsx}"
   ],
   theme: {
     extend: {},
   },
   plugins: [],
-  base: "/IAurora"
+  base: '/'
 }
