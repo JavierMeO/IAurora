@@ -10,5 +10,6 @@ export default {
     extend: {},
   },
   plugins: [],
-  base: "/IAurora"
+  base: "https://iaurora.cloud/"
 }
+
